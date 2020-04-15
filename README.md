@@ -1,4 +1,4 @@
-# Lyrics-Based Music Genre Classifier Using a CNN-LSTM Network
+# Lyrics-Based Music Genre Classifier
 Classify the genre (Rock, Pop, Hip-Hop, Not Available, Metal, Other, Country, Jazz, Electronic, R&B, Indie, Folk) of the song by its lyrics. Music genre classification, especially using lyrics alone, remains a challenging topic in Music Information Retrieval. The accuracy about the model is not good enough considering there is too much factors that effect song's genre instead of using song's lyrics only. 
 In particular, we will go through some baselines and full Deep Learning pipeline, from:
 
